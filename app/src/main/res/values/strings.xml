@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Njira</string>
+    <string name="tagline">Find your way on public transport</string>
+    <string name="gps_using">using your GPS location</string>
+    <string name="gps_default">using default location (Town)</string>
+    <string name="nearby_stops">Nearby stops</string>
+    <string name="destinations">Popular destinations</string>
+    <string name="track_live">Track live minibuses</string>
+    <string name="fare_note">pay the conductor on board</string>
+</resources>
